@@ -116,4 +116,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1114-print-in-order](https://github.com/PreranRai/LeetCode-Solutions/tree/master/1114-print-in-order) |
+## Database
+|  |
+| ------- |
+| [0608-tree-node](https://github.com/PreranRai/LeetCode-Solutions/tree/master/0608-tree-node) |
 <!---LeetCode Topics End-->
