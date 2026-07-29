@@ -8,6 +8,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0001-two-sum](https://github.com/PreranRai/LeetCode-Solutions/tree/master/0001-two-sum) |
 | [0011-container-with-most-water](https://github.com/PreranRai/LeetCode-Solutions/tree/master/0011-container-with-most-water) |
+| [0078-subsets](https://github.com/PreranRai/LeetCode-Solutions/tree/master/0078-subsets) |
 | [0088-merge-sorted-array](https://github.com/PreranRai/LeetCode-Solutions/tree/master/0088-merge-sorted-array) |
 | [0448-find-all-numbers-disappeared-in-an-array](https://github.com/PreranRai/LeetCode-Solutions/tree/master/0448-find-all-numbers-disappeared-in-an-array) |
 | [0500-keyboard-row](https://github.com/PreranRai/LeetCode-Solutions/tree/master/0500-keyboard-row) |
@@ -150,9 +151,14 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Bit Manipulation
 |  |
 | ------- |
+| [0078-subsets](https://github.com/PreranRai/LeetCode-Solutions/tree/master/0078-subsets) |
 | [0389-find-the-difference](https://github.com/PreranRai/LeetCode-Solutions/tree/master/0389-find-the-difference) |
 ## Heap (Priority Queue)
 |  |
 | ------- |
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/PreranRai/LeetCode-Solutions/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
+## Backtracking
+|  |
+| ------- |
+| [0078-subsets](https://github.com/PreranRai/LeetCode-Solutions/tree/master/0078-subsets) |
 <!---LeetCode Topics End-->
