@@ -37,6 +37,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0002-add-two-numbers](https://github.com/PreranRai/LeetCode-Solutions/tree/master/0002-add-two-numbers) |
+| [0061-rotate-list](https://github.com/PreranRai/LeetCode-Solutions/tree/master/0061-rotate-list) |
 ## Math
 |  |
 | ------- |
@@ -73,6 +74,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0011-container-with-most-water](https://github.com/PreranRai/LeetCode-Solutions/tree/master/0011-container-with-most-water) |
+| [0061-rotate-list](https://github.com/PreranRai/LeetCode-Solutions/tree/master/0061-rotate-list) |
 | [0088-merge-sorted-array](https://github.com/PreranRai/LeetCode-Solutions/tree/master/0088-merge-sorted-array) |
 | [0345-reverse-vowels-of-a-string](https://github.com/PreranRai/LeetCode-Solutions/tree/master/0345-reverse-vowels-of-a-string) |
 ## Greedy
