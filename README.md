@@ -13,6 +13,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0448-find-all-numbers-disappeared-in-an-array](https://github.com/PreranRai/LeetCode-Solutions/tree/master/0448-find-all-numbers-disappeared-in-an-array) |
 | [0500-keyboard-row](https://github.com/PreranRai/LeetCode-Solutions/tree/master/0500-keyboard-row) |
 | [0628-maximum-product-of-three-numbers](https://github.com/PreranRai/LeetCode-Solutions/tree/master/0628-maximum-product-of-three-numbers) |
+| [0746-min-cost-climbing-stairs](https://github.com/PreranRai/LeetCode-Solutions/tree/master/0746-min-cost-climbing-stairs) |
 | [0812-largest-triangle-area](https://github.com/PreranRai/LeetCode-Solutions/tree/master/0812-largest-triangle-area) |
 | [0877-stone-game](https://github.com/PreranRai/LeetCode-Solutions/tree/master/0877-stone-game) |
 | [1260-shift-2d-grid](https://github.com/PreranRai/LeetCode-Solutions/tree/master/1260-shift-2d-grid) |
@@ -182,6 +183,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Dynamic Programming
 |  |
 | ------- |
+| [0746-min-cost-climbing-stairs](https://github.com/PreranRai/LeetCode-Solutions/tree/master/0746-min-cost-climbing-stairs) |
 | [0877-stone-game](https://github.com/PreranRai/LeetCode-Solutions/tree/master/0877-stone-game) |
 ## Game Theory
 |  |
