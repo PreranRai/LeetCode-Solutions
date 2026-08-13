@@ -59,6 +59,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0050-powx-n](https://github.com/PreranRai/LeetCode-Solutions/tree/master/0050-powx-n) |
 | [0263-ugly-number](https://github.com/PreranRai/LeetCode-Solutions/tree/master/0263-ugly-number) |
 | [0628-maximum-product-of-three-numbers](https://github.com/PreranRai/LeetCode-Solutions/tree/master/0628-maximum-product-of-three-numbers) |
+| [0728-self-dividing-numbers](https://github.com/PreranRai/LeetCode-Solutions/tree/master/0728-self-dividing-numbers) |
 | [0812-largest-triangle-area](https://github.com/PreranRai/LeetCode-Solutions/tree/master/0812-largest-triangle-area) |
 | [0877-stone-game](https://github.com/PreranRai/LeetCode-Solutions/tree/master/0877-stone-game) |
 | [1137-n-th-tribonacci-number](https://github.com/PreranRai/LeetCode-Solutions/tree/master/1137-n-th-tribonacci-number) |
