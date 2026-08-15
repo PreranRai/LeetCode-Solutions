@@ -15,6 +15,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0448-find-all-numbers-disappeared-in-an-array](https://github.com/PreranRai/LeetCode-Solutions/tree/master/0448-find-all-numbers-disappeared-in-an-array) |
 | [0485-max-consecutive-ones](https://github.com/PreranRai/LeetCode-Solutions/tree/master/0485-max-consecutive-ones) |
 | [0500-keyboard-row](https://github.com/PreranRai/LeetCode-Solutions/tree/master/0500-keyboard-row) |
+| [0566-reshape-the-matrix](https://github.com/PreranRai/LeetCode-Solutions/tree/master/0566-reshape-the-matrix) |
 | [0628-maximum-product-of-three-numbers](https://github.com/PreranRai/LeetCode-Solutions/tree/master/0628-maximum-product-of-three-numbers) |
 | [0746-min-cost-climbing-stairs](https://github.com/PreranRai/LeetCode-Solutions/tree/master/0746-min-cost-climbing-stairs) |
 | [0812-largest-triangle-area](https://github.com/PreranRai/LeetCode-Solutions/tree/master/0812-largest-triangle-area) |
@@ -177,10 +178,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Matrix
 |  |
 | ------- |
+| [0566-reshape-the-matrix](https://github.com/PreranRai/LeetCode-Solutions/tree/master/0566-reshape-the-matrix) |
 | [1260-shift-2d-grid](https://github.com/PreranRai/LeetCode-Solutions/tree/master/1260-shift-2d-grid) |
 ## Simulation
 |  |
 | ------- |
+| [0566-reshape-the-matrix](https://github.com/PreranRai/LeetCode-Solutions/tree/master/0566-reshape-the-matrix) |
 | [1260-shift-2d-grid](https://github.com/PreranRai/LeetCode-Solutions/tree/master/1260-shift-2d-grid) |
 ## Bit Manipulation
 |  |
