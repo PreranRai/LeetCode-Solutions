@@ -180,6 +180,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1114-print-in-order](https://github.com/PreranRai/LeetCode-Solutions/tree/master/1114-print-in-order) |
+| [1115-print-foobar-alternately](https://github.com/PreranRai/LeetCode-Solutions/tree/master/1115-print-foobar-alternately) |
 ## Database
 |  |
 | ------- |
