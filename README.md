@@ -22,6 +22,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0746-min-cost-climbing-stairs](https://github.com/PreranRai/LeetCode-Solutions/tree/master/0746-min-cost-climbing-stairs) |
 | [0812-largest-triangle-area](https://github.com/PreranRai/LeetCode-Solutions/tree/master/0812-largest-triangle-area) |
 | [0877-stone-game](https://github.com/PreranRai/LeetCode-Solutions/tree/master/0877-stone-game) |
+| [0944-delete-columns-to-make-sorted](https://github.com/PreranRai/LeetCode-Solutions/tree/master/0944-delete-columns-to-make-sorted) |
 | [1260-shift-2d-grid](https://github.com/PreranRai/LeetCode-Solutions/tree/master/1260-shift-2d-grid) |
 | [1331-rank-transform-of-an-array](https://github.com/PreranRai/LeetCode-Solutions/tree/master/1331-rank-transform-of-an-array) |
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/PreranRai/LeetCode-Solutions/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
@@ -124,6 +125,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0387-first-unique-character-in-a-string](https://github.com/PreranRai/LeetCode-Solutions/tree/master/0387-first-unique-character-in-a-string) |
 | [0389-find-the-difference](https://github.com/PreranRai/LeetCode-Solutions/tree/master/0389-find-the-difference) |
 | [0500-keyboard-row](https://github.com/PreranRai/LeetCode-Solutions/tree/master/0500-keyboard-row) |
+| [0944-delete-columns-to-make-sorted](https://github.com/PreranRai/LeetCode-Solutions/tree/master/0944-delete-columns-to-make-sorted) |
 | [3014-minimum-number-of-pushes-to-type-word-i](https://github.com/PreranRai/LeetCode-Solutions/tree/master/3014-minimum-number-of-pushes-to-type-word-i) |
 | [3016-minimum-number-of-pushes-to-type-word-ii](https://github.com/PreranRai/LeetCode-Solutions/tree/master/3016-minimum-number-of-pushes-to-type-word-ii) |
 | [3090-maximum-length-substring-with-two-occurrences](https://github.com/PreranRai/LeetCode-Solutions/tree/master/3090-maximum-length-substring-with-two-occurrences) |
@@ -253,4 +255,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0004-median-of-two-sorted-arrays](https://github.com/PreranRai/LeetCode-Solutions/tree/master/0004-median-of-two-sorted-arrays) |
+## Longest Increasing Subsequence
+|  |
+| ------- |
+| [0944-delete-columns-to-make-sorted](https://github.com/PreranRai/LeetCode-Solutions/tree/master/0944-delete-columns-to-make-sorted) |
 <!---LeetCode Topics End-->
