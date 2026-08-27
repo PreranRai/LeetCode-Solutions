@@ -69,6 +69,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0013-roman-to-integer](https://github.com/PreranRai/LeetCode-Solutions/tree/master/0013-roman-to-integer) |
 | [0050-powx-n](https://github.com/PreranRai/LeetCode-Solutions/tree/master/0050-powx-n) |
 | [0263-ugly-number](https://github.com/PreranRai/LeetCode-Solutions/tree/master/0263-ugly-number) |
+| [0412-fizz-buzz](https://github.com/PreranRai/LeetCode-Solutions/tree/master/0412-fizz-buzz) |
 | [0628-maximum-product-of-three-numbers](https://github.com/PreranRai/LeetCode-Solutions/tree/master/0628-maximum-product-of-three-numbers) |
 | [0728-self-dividing-numbers](https://github.com/PreranRai/LeetCode-Solutions/tree/master/0728-self-dividing-numbers) |
 | [0812-largest-triangle-area](https://github.com/PreranRai/LeetCode-Solutions/tree/master/0812-largest-triangle-area) |
@@ -130,6 +131,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0345-reverse-vowels-of-a-string](https://github.com/PreranRai/LeetCode-Solutions/tree/master/0345-reverse-vowels-of-a-string) |
 | [0387-first-unique-character-in-a-string](https://github.com/PreranRai/LeetCode-Solutions/tree/master/0387-first-unique-character-in-a-string) |
 | [0389-find-the-difference](https://github.com/PreranRai/LeetCode-Solutions/tree/master/0389-find-the-difference) |
+| [0412-fizz-buzz](https://github.com/PreranRai/LeetCode-Solutions/tree/master/0412-fizz-buzz) |
 | [0500-keyboard-row](https://github.com/PreranRai/LeetCode-Solutions/tree/master/0500-keyboard-row) |
 | [0944-delete-columns-to-make-sorted](https://github.com/PreranRai/LeetCode-Solutions/tree/master/0944-delete-columns-to-make-sorted) |
 | [3014-minimum-number-of-pushes-to-type-word-i](https://github.com/PreranRai/LeetCode-Solutions/tree/master/3014-minimum-number-of-pushes-to-type-word-i) |
@@ -203,6 +205,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Simulation
 |  |
 | ------- |
+| [0412-fizz-buzz](https://github.com/PreranRai/LeetCode-Solutions/tree/master/0412-fizz-buzz) |
 | [0566-reshape-the-matrix](https://github.com/PreranRai/LeetCode-Solutions/tree/master/0566-reshape-the-matrix) |
 | [1260-shift-2d-grid](https://github.com/PreranRai/LeetCode-Solutions/tree/master/1260-shift-2d-grid) |
 | [3069-distribute-elements-into-two-arrays-i](https://github.com/PreranRai/LeetCode-Solutions/tree/master/3069-distribute-elements-into-two-arrays-i) |
