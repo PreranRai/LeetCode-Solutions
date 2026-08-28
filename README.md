@@ -9,6 +9,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0001-two-sum](https://github.com/PreranRai/LeetCode-Solutions/tree/master/0001-two-sum) |
 | [0004-median-of-two-sorted-arrays](https://github.com/PreranRai/LeetCode-Solutions/tree/master/0004-median-of-two-sorted-arrays) |
 | [0011-container-with-most-water](https://github.com/PreranRai/LeetCode-Solutions/tree/master/0011-container-with-most-water) |
+| [0066-plus-one](https://github.com/PreranRai/LeetCode-Solutions/tree/master/0066-plus-one) |
 | [0078-subsets](https://github.com/PreranRai/LeetCode-Solutions/tree/master/0078-subsets) |
 | [0088-merge-sorted-array](https://github.com/PreranRai/LeetCode-Solutions/tree/master/0088-merge-sorted-array) |
 | [0217-contains-duplicate](https://github.com/PreranRai/LeetCode-Solutions/tree/master/0217-contains-duplicate) |
@@ -68,6 +69,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0012-integer-to-roman](https://github.com/PreranRai/LeetCode-Solutions/tree/master/0012-integer-to-roman) |
 | [0013-roman-to-integer](https://github.com/PreranRai/LeetCode-Solutions/tree/master/0013-roman-to-integer) |
 | [0050-powx-n](https://github.com/PreranRai/LeetCode-Solutions/tree/master/0050-powx-n) |
+| [0066-plus-one](https://github.com/PreranRai/LeetCode-Solutions/tree/master/0066-plus-one) |
 | [0263-ugly-number](https://github.com/PreranRai/LeetCode-Solutions/tree/master/0263-ugly-number) |
 | [0412-fizz-buzz](https://github.com/PreranRai/LeetCode-Solutions/tree/master/0412-fizz-buzz) |
 | [0628-maximum-product-of-three-numbers](https://github.com/PreranRai/LeetCode-Solutions/tree/master/0628-maximum-product-of-three-numbers) |
