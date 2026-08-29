@@ -24,6 +24,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0746-min-cost-climbing-stairs](https://github.com/PreranRai/LeetCode-Solutions/tree/master/0746-min-cost-climbing-stairs) |
 | [0812-largest-triangle-area](https://github.com/PreranRai/LeetCode-Solutions/tree/master/0812-largest-triangle-area) |
 | [0877-stone-game](https://github.com/PreranRai/LeetCode-Solutions/tree/master/0877-stone-game) |
+| [0883-projection-area-of-3d-shapes](https://github.com/PreranRai/LeetCode-Solutions/tree/master/0883-projection-area-of-3d-shapes) |
 | [0944-delete-columns-to-make-sorted](https://github.com/PreranRai/LeetCode-Solutions/tree/master/0944-delete-columns-to-make-sorted) |
 | [1260-shift-2d-grid](https://github.com/PreranRai/LeetCode-Solutions/tree/master/1260-shift-2d-grid) |
 | [1331-rank-transform-of-an-array](https://github.com/PreranRai/LeetCode-Solutions/tree/master/1331-rank-transform-of-an-array) |
@@ -76,6 +77,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0728-self-dividing-numbers](https://github.com/PreranRai/LeetCode-Solutions/tree/master/0728-self-dividing-numbers) |
 | [0812-largest-triangle-area](https://github.com/PreranRai/LeetCode-Solutions/tree/master/0812-largest-triangle-area) |
 | [0877-stone-game](https://github.com/PreranRai/LeetCode-Solutions/tree/master/0877-stone-game) |
+| [0883-projection-area-of-3d-shapes](https://github.com/PreranRai/LeetCode-Solutions/tree/master/0883-projection-area-of-3d-shapes) |
 | [1137-n-th-tribonacci-number](https://github.com/PreranRai/LeetCode-Solutions/tree/master/1137-n-th-tribonacci-number) |
 | [1979-find-greatest-common-divisor-of-array](https://github.com/PreranRai/LeetCode-Solutions/tree/master/1979-find-greatest-common-divisor-of-array) |
 | [2029-stone-game-ix](https://github.com/PreranRai/LeetCode-Solutions/tree/master/2029-stone-game-ix) |
@@ -93,6 +95,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0812-largest-triangle-area](https://github.com/PreranRai/LeetCode-Solutions/tree/master/0812-largest-triangle-area) |
+| [0883-projection-area-of-3d-shapes](https://github.com/PreranRai/LeetCode-Solutions/tree/master/0883-projection-area-of-3d-shapes) |
 ## Sorting
 |  |
 | ------- |
@@ -203,6 +206,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0566-reshape-the-matrix](https://github.com/PreranRai/LeetCode-Solutions/tree/master/0566-reshape-the-matrix) |
+| [0883-projection-area-of-3d-shapes](https://github.com/PreranRai/LeetCode-Solutions/tree/master/0883-projection-area-of-3d-shapes) |
 | [1260-shift-2d-grid](https://github.com/PreranRai/LeetCode-Solutions/tree/master/1260-shift-2d-grid) |
 ## Simulation
 |  |
