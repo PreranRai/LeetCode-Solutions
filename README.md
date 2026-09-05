@@ -145,6 +145,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0389-find-the-difference](https://github.com/PreranRai/LeetCode-Solutions/tree/master/0389-find-the-difference) |
 | [0412-fizz-buzz](https://github.com/PreranRai/LeetCode-Solutions/tree/master/0412-fizz-buzz) |
 | [0500-keyboard-row](https://github.com/PreranRai/LeetCode-Solutions/tree/master/0500-keyboard-row) |
+| [0824-goat-latin](https://github.com/PreranRai/LeetCode-Solutions/tree/master/0824-goat-latin) |
 | [0944-delete-columns-to-make-sorted](https://github.com/PreranRai/LeetCode-Solutions/tree/master/0944-delete-columns-to-make-sorted) |
 | [3014-minimum-number-of-pushes-to-type-word-i](https://github.com/PreranRai/LeetCode-Solutions/tree/master/3014-minimum-number-of-pushes-to-type-word-i) |
 | [3016-minimum-number-of-pushes-to-type-word-ii](https://github.com/PreranRai/LeetCode-Solutions/tree/master/3016-minimum-number-of-pushes-to-type-word-ii) |
