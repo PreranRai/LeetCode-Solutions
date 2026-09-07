@@ -22,6 +22,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0566-reshape-the-matrix](https://github.com/PreranRai/LeetCode-Solutions/tree/master/0566-reshape-the-matrix) |
 | [0594-longest-harmonious-subsequence](https://github.com/PreranRai/LeetCode-Solutions/tree/master/0594-longest-harmonious-subsequence) |
 | [0628-maximum-product-of-three-numbers](https://github.com/PreranRai/LeetCode-Solutions/tree/master/0628-maximum-product-of-three-numbers) |
+| [0661-image-smoother](https://github.com/PreranRai/LeetCode-Solutions/tree/master/0661-image-smoother) |
 | [0746-min-cost-climbing-stairs](https://github.com/PreranRai/LeetCode-Solutions/tree/master/0746-min-cost-climbing-stairs) |
 | [0812-largest-triangle-area](https://github.com/PreranRai/LeetCode-Solutions/tree/master/0812-largest-triangle-area) |
 | [0877-stone-game](https://github.com/PreranRai/LeetCode-Solutions/tree/master/0877-stone-game) |
@@ -218,6 +219,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0566-reshape-the-matrix](https://github.com/PreranRai/LeetCode-Solutions/tree/master/0566-reshape-the-matrix) |
+| [0661-image-smoother](https://github.com/PreranRai/LeetCode-Solutions/tree/master/0661-image-smoother) |
 | [0883-projection-area-of-3d-shapes](https://github.com/PreranRai/LeetCode-Solutions/tree/master/0883-projection-area-of-3d-shapes) |
 | [1260-shift-2d-grid](https://github.com/PreranRai/LeetCode-Solutions/tree/master/1260-shift-2d-grid) |
 ## Simulation
