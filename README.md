@@ -14,6 +14,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0088-merge-sorted-array](https://github.com/PreranRai/LeetCode-Solutions/tree/master/0088-merge-sorted-array) |
 | [0120-triangle](https://github.com/PreranRai/LeetCode-Solutions/tree/master/0120-triangle) |
 | [0217-contains-duplicate](https://github.com/PreranRai/LeetCode-Solutions/tree/master/0217-contains-duplicate) |
+| [0350-intersection-of-two-arrays-ii](https://github.com/PreranRai/LeetCode-Solutions/tree/master/0350-intersection-of-two-arrays-ii) |
 | [0414-third-maximum-number](https://github.com/PreranRai/LeetCode-Solutions/tree/master/0414-third-maximum-number) |
 | [0448-find-all-numbers-disappeared-in-an-array](https://github.com/PreranRai/LeetCode-Solutions/tree/master/0448-find-all-numbers-disappeared-in-an-array) |
 | [0455-assign-cookies](https://github.com/PreranRai/LeetCode-Solutions/tree/master/0455-assign-cookies) |
@@ -50,6 +51,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0205-isomorphic-strings](https://github.com/PreranRai/LeetCode-Solutions/tree/master/0205-isomorphic-strings) |
 | [0217-contains-duplicate](https://github.com/PreranRai/LeetCode-Solutions/tree/master/0217-contains-duplicate) |
 | [0290-word-pattern](https://github.com/PreranRai/LeetCode-Solutions/tree/master/0290-word-pattern) |
+| [0350-intersection-of-two-arrays-ii](https://github.com/PreranRai/LeetCode-Solutions/tree/master/0350-intersection-of-two-arrays-ii) |
 | [0387-first-unique-character-in-a-string](https://github.com/PreranRai/LeetCode-Solutions/tree/master/0387-first-unique-character-in-a-string) |
 | [0389-find-the-difference](https://github.com/PreranRai/LeetCode-Solutions/tree/master/0389-find-the-difference) |
 | [0448-find-all-numbers-disappeared-in-an-array](https://github.com/PreranRai/LeetCode-Solutions/tree/master/0448-find-all-numbers-disappeared-in-an-array) |
@@ -109,6 +111,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0088-merge-sorted-array](https://github.com/PreranRai/LeetCode-Solutions/tree/master/0088-merge-sorted-array) |
 | [0217-contains-duplicate](https://github.com/PreranRai/LeetCode-Solutions/tree/master/0217-contains-duplicate) |
+| [0350-intersection-of-two-arrays-ii](https://github.com/PreranRai/LeetCode-Solutions/tree/master/0350-intersection-of-two-arrays-ii) |
 | [0389-find-the-difference](https://github.com/PreranRai/LeetCode-Solutions/tree/master/0389-find-the-difference) |
 | [0414-third-maximum-number](https://github.com/PreranRai/LeetCode-Solutions/tree/master/0414-third-maximum-number) |
 | [0455-assign-cookies](https://github.com/PreranRai/LeetCode-Solutions/tree/master/0455-assign-cookies) |
@@ -128,6 +131,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0061-rotate-list](https://github.com/PreranRai/LeetCode-Solutions/tree/master/0061-rotate-list) |
 | [0088-merge-sorted-array](https://github.com/PreranRai/LeetCode-Solutions/tree/master/0088-merge-sorted-array) |
 | [0345-reverse-vowels-of-a-string](https://github.com/PreranRai/LeetCode-Solutions/tree/master/0345-reverse-vowels-of-a-string) |
+| [0350-intersection-of-two-arrays-ii](https://github.com/PreranRai/LeetCode-Solutions/tree/master/0350-intersection-of-two-arrays-ii) |
 | [0455-assign-cookies](https://github.com/PreranRai/LeetCode-Solutions/tree/master/0455-assign-cookies) |
 | [0977-squares-of-a-sorted-array](https://github.com/PreranRai/LeetCode-Solutions/tree/master/0977-squares-of-a-sorted-array) |
 ## Greedy
@@ -161,6 +165,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0004-median-of-two-sorted-arrays](https://github.com/PreranRai/LeetCode-Solutions/tree/master/0004-median-of-two-sorted-arrays) |
 | [0278-first-bad-version](https://github.com/PreranRai/LeetCode-Solutions/tree/master/0278-first-bad-version) |
+| [0350-intersection-of-two-arrays-ii](https://github.com/PreranRai/LeetCode-Solutions/tree/master/0350-intersection-of-two-arrays-ii) |
 | [0374-guess-number-higher-or-lower](https://github.com/PreranRai/LeetCode-Solutions/tree/master/0374-guess-number-higher-or-lower) |
 ## Interactive
 |  |
