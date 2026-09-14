@@ -86,6 +86,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0628-maximum-product-of-three-numbers](https://github.com/PreranRai/LeetCode-Solutions/tree/master/0628-maximum-product-of-three-numbers) |
 | [0728-self-dividing-numbers](https://github.com/PreranRai/LeetCode-Solutions/tree/master/0728-self-dividing-numbers) |
 | [0812-largest-triangle-area](https://github.com/PreranRai/LeetCode-Solutions/tree/master/0812-largest-triangle-area) |
+| [0836-rectangle-overlap](https://github.com/PreranRai/LeetCode-Solutions/tree/master/0836-rectangle-overlap) |
 | [0877-stone-game](https://github.com/PreranRai/LeetCode-Solutions/tree/master/0877-stone-game) |
 | [0883-projection-area-of-3d-shapes](https://github.com/PreranRai/LeetCode-Solutions/tree/master/0883-projection-area-of-3d-shapes) |
 | [1137-n-th-tribonacci-number](https://github.com/PreranRai/LeetCode-Solutions/tree/master/1137-n-th-tribonacci-number) |
@@ -108,6 +109,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0812-largest-triangle-area](https://github.com/PreranRai/LeetCode-Solutions/tree/master/0812-largest-triangle-area) |
+| [0836-rectangle-overlap](https://github.com/PreranRai/LeetCode-Solutions/tree/master/0836-rectangle-overlap) |
 | [0883-projection-area-of-3d-shapes](https://github.com/PreranRai/LeetCode-Solutions/tree/master/0883-projection-area-of-3d-shapes) |
 ## Sorting
 |  |
