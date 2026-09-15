@@ -27,6 +27,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0661-image-smoother](https://github.com/PreranRai/LeetCode-Solutions/tree/master/0661-image-smoother) |
 | [0746-min-cost-climbing-stairs](https://github.com/PreranRai/LeetCode-Solutions/tree/master/0746-min-cost-climbing-stairs) |
 | [0812-largest-triangle-area](https://github.com/PreranRai/LeetCode-Solutions/tree/master/0812-largest-triangle-area) |
+| [0832-flipping-an-image](https://github.com/PreranRai/LeetCode-Solutions/tree/master/0832-flipping-an-image) |
 | [0877-stone-game](https://github.com/PreranRai/LeetCode-Solutions/tree/master/0877-stone-game) |
 | [0883-projection-area-of-3d-shapes](https://github.com/PreranRai/LeetCode-Solutions/tree/master/0883-projection-area-of-3d-shapes) |
 | [0944-delete-columns-to-make-sorted](https://github.com/PreranRai/LeetCode-Solutions/tree/master/0944-delete-columns-to-make-sorted) |
@@ -138,6 +139,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0345-reverse-vowels-of-a-string](https://github.com/PreranRai/LeetCode-Solutions/tree/master/0345-reverse-vowels-of-a-string) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/PreranRai/LeetCode-Solutions/tree/master/0350-intersection-of-two-arrays-ii) |
 | [0455-assign-cookies](https://github.com/PreranRai/LeetCode-Solutions/tree/master/0455-assign-cookies) |
+| [0832-flipping-an-image](https://github.com/PreranRai/LeetCode-Solutions/tree/master/0832-flipping-an-image) |
 | [0977-squares-of-a-sorted-array](https://github.com/PreranRai/LeetCode-Solutions/tree/master/0977-squares-of-a-sorted-array) |
 ## Greedy
 |  |
@@ -232,6 +234,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0566-reshape-the-matrix](https://github.com/PreranRai/LeetCode-Solutions/tree/master/0566-reshape-the-matrix) |
 | [0661-image-smoother](https://github.com/PreranRai/LeetCode-Solutions/tree/master/0661-image-smoother) |
+| [0832-flipping-an-image](https://github.com/PreranRai/LeetCode-Solutions/tree/master/0832-flipping-an-image) |
 | [0883-projection-area-of-3d-shapes](https://github.com/PreranRai/LeetCode-Solutions/tree/master/0883-projection-area-of-3d-shapes) |
 | [1260-shift-2d-grid](https://github.com/PreranRai/LeetCode-Solutions/tree/master/1260-shift-2d-grid) |
 ## Simulation
@@ -239,6 +242,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0412-fizz-buzz](https://github.com/PreranRai/LeetCode-Solutions/tree/master/0412-fizz-buzz) |
 | [0566-reshape-the-matrix](https://github.com/PreranRai/LeetCode-Solutions/tree/master/0566-reshape-the-matrix) |
+| [0832-flipping-an-image](https://github.com/PreranRai/LeetCode-Solutions/tree/master/0832-flipping-an-image) |
 | [1260-shift-2d-grid](https://github.com/PreranRai/LeetCode-Solutions/tree/master/1260-shift-2d-grid) |
 | [3069-distribute-elements-into-two-arrays-i](https://github.com/PreranRai/LeetCode-Solutions/tree/master/3069-distribute-elements-into-two-arrays-i) |
 ## Bit Manipulation
@@ -246,6 +250,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0078-subsets](https://github.com/PreranRai/LeetCode-Solutions/tree/master/0078-subsets) |
 | [0389-find-the-difference](https://github.com/PreranRai/LeetCode-Solutions/tree/master/0389-find-the-difference) |
+| [0832-flipping-an-image](https://github.com/PreranRai/LeetCode-Solutions/tree/master/0832-flipping-an-image) |
 ## Heap (Priority Queue)
 |  |
 | ------- |
